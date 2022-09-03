@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-My name is Wayne and I am based in Malta :malta:. 
+:handshake:	My name is Wayne and I am based in Malta :malta:. 
 
-:books:	I am on currently studying HTML and CSS in my free-time. 
+:books:	I am currently studying HTML and CSS in my free-time. 
